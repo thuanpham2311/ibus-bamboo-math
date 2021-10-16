@@ -2,8 +2,8 @@
 # https://github.com/emacsmirror/xah-math-input/blob/master/xah-math-input.el
 a..:α
 b..:β
-z..:ℤ
-r..:ℝ
+Z..:ℤ
+R..:ℝ
 p..:π
 l..:λ
 g..:γ
@@ -12,7 +12,7 @@ fn..:ƒ
 sum..:∑
 prod..:∏
 cp..:⊕
-rt..:√
+int..:∫
 and..:∧
 or..:∨
 not..:¬
@@ -110,8 +110,5 @@ sqrt..:√
 3/4..:¾
 1/2..:½
 1/4..:¼
-because..:∵
 cuz..:∵
-therefore..:∴
-thus..:∴
 so..:∴
