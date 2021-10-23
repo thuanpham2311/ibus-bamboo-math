@@ -1,5 +1,6 @@
 # math input
 # https://github.com/emacsmirror/xah-math-input/blob/master/xah-math-input.el
+# có thể thêm .. (a..:α) để tránh conflict ký tự.
 a:α
 b:β
 Z:ℤ
@@ -110,5 +111,3 @@ sqrt:√
 3/4:¾
 1/2:½
 1/4:¼
-cuz:∵
-so:∴
