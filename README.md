@@ -10,7 +10,7 @@
 
 **Một số dự định**
 
-- [ ] hỗ trợ cấu hình trên Windows, MAC OS
-- [ ] viết cái readme cho nó đàng hoàng thân thiện dễ thương hơn
-- [ ] kêu gọi đồng bào hỗ trợ viết phụ
-- [ ] xâm chiếm thế giới (english,...)
+- @todo hỗ trợ cấu hình trên Windows, MAC OS
+- @todo viết cái readme cho nó đàng hoàng thân thiện dễ thương hơn
+- @todo kêu gọi đồng bào hỗ trợ viết phụ
+- @todo xâm chiếm thế giới (english,...)
